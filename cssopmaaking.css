@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(18, 96, 8); 
+}
+
+
+
+.kleur1{
+    display: flex;
+    justify-content: left;
+    background-color: rgb(63, 138, 2);
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+}
+
+
+a:link, a:visited {
+    background-color: rgb(59, 112, 10);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
