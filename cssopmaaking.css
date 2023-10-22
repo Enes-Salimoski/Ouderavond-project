@@ -2,12 +2,12 @@ h1{
     color: black;
     display: flex;
     justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body{
     background-color: rgb(18, 96, 8); 
 }
-
 
 
 .kleur1{
@@ -21,7 +21,7 @@ ul{
 }
 
 li{
-    display: inline;
+    display: inline; 
 }
 
 
@@ -33,3 +33,58 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
   }
+
+  .ict{
+    display: flex;
+    float: right;
+  }
+
+  p{
+    font-size: 35px;
+  }
+
+  .canvasimg{
+    display: flex;
+    float: right;
+  }
+
+  .eduarte{
+    display: flex;
+    float: right;
+  }
+
+  .examen{
+    display:flex;
+    float: right;
+  }
+
+  .studie-advies{
+    display: flex;
+    float: right;
+  }
+
+  .begeleiding{
+    display: flex;
+    float: right;
+  }
+
+  .opleiding{
+    display: flex;
+    float: right;
+  }
+
+  .visual-studio-code-logo{
+    display: flex;
+    float: right;
+  }
+
+  .github{
+    display: flex;
+    float: right;
+  }
+
+  .locatie{
+    display: flex;
+    float: right;
+  }
+
